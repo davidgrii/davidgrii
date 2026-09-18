@@ -1,6 +1,6 @@
 ### Sup, I'm David
 
-Full stack developer based in Czech Republic
+Full stack developer.
 I build SaaS admin panels, anonymous AI-powered chat platforms, CMS systems, and crypto product startups, with 3+ years of experience turning ideas into working products.
 
 #### Tech stack I work with:
