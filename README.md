@@ -1,6 +1,5 @@
-### Sup, I'm David
+### Sup, I'm David a Full stack developer
 
-Full stack developer.
 I build SaaS admin panels, anonymous AI-powered chat platforms, CMS systems, and crypto product startups, with 3+ years of experience turning ideas into working products.
 
 #### Tech stack I work with:
