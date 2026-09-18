@@ -1,8 +1,9 @@
 ## Sup, I'm David
 
+
 ### 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with 3+ years of experience in SaaS admin panels, anonymous AI-powered chat platforms, CMS systems and crypto product startups
 
-𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸 𝗜 𝘄𝗼𝗿𝗸 𝘄𝗶𝘁𝗵: 
+## Tech stack I work with:
 - Frameworks: React & Next.js, Astro.js
 - Languages: TypeScript, JavaScript, GO, HTML5, CSS3/SCSS
 - Libraries: Tailwind CSS & Bootstrap | Redux-toolkit & Zustand | REST API, React Query, WebSockets
