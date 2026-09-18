@@ -9,4 +9,4 @@ I build SaaS admin panels, anonymous AI-powered chat platforms, CMS systems, and
 - Libraries: Tailwind CSS & Bootstrap | Redux-toolkit & Zustand | REST API, React Query, WebSockets
 - Tools & Platforms: Figma, GitHub, Vercel, Slack, Cliq, Asana, Jira
 
-**Portfolio:** [www.david-gri.com](https://www.david-gri.com)
+##### **Portfolio:** [www.david-gri.com](https://www.david-gri.com)
