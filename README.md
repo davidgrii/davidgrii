@@ -1,12 +1,12 @@
-## Hi there 👋
+## Sup, I'm David
 
-𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with 3+ years of experience in SaaS admin panels, anonymous AI-powered chat platforms, CMS systems and crypto product startups
+### 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with 3+ years of experience in SaaS admin panels, anonymous AI-powered chat platforms, CMS systems and crypto product startups
 
 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸 𝗜 𝘄𝗼𝗿𝗸 𝘄𝗶𝘁𝗵: 
-• Frameworks: React & Next.js, Astro.js
-• Languages: TypeScript, JavaScript, GO, HTML5, CSS3/SCSS
-• Libraries: Tailwind CSS & Bootstrap | Redux-toolkit & Zustand | REST API, React Query, WebSockets
-• Tools & Platforms: Figma, GitHub, Vercel, Slack, Cliq, Asana, Jira
+- Frameworks: React & Next.js, Astro.js
+- Languages: TypeScript, JavaScript, GO, HTML5, CSS3/SCSS
+- Libraries: Tailwind CSS & Bootstrap | Redux-toolkit & Zustand | REST API, React Query, WebSockets
+- Tools & Platforms: Figma, GitHub, Vercel, Slack, Cliq, Asana, Jira
 
 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝘄𝗲𝗯𝘀𝗶𝘁𝗲: www.david-gri.com
 
